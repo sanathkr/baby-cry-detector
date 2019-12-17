@@ -1,0 +1,17 @@
+{
+	"ulid": "01DJ2A0VAME6B1C87MF7CAE32G",
+	"minTime": 1565582400000,
+	"maxTime": 1565589600000,
+	"stats": {
+		"numSamples": 31520,
+		"numSeries": 16,
+		"numChunks": 256
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01DJ2A0VAME6B1C87MF7CAE32G"
+		]
+	},
+	"version": 1
+}

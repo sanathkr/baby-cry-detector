@@ -1,5 +1,5 @@
--f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
-torch_nightly
+torch
+torchvision
 fastai
 starlette
 uvicorn
@@ -7,3 +7,4 @@ python-multipart
 aiofiles
 librosa
 pydub
+prometheus_client
